@@ -1,0 +1,16 @@
+{
+  "name": "Togepi",
+  "description": "A little pixel Togepi with cheerful waddles and hops. Original CHUNSOFT sprites via PMDCollab; adapted to classic animations.",
+  "slug": "togepi",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "5a8f90a8cab236d1c2ab3180ebe79ff750bf6d57f100583b39e94740e288d865",
+  "artwork_credit": "Original CHUNSOFT sprites via PMDCollab.",
+  "artwork_source_url": "https://github.com/PMDCollab/SpriteCollab/tree/master/sprite/0175"
+}

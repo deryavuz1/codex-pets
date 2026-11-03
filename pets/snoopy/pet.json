@@ -1,0 +1,16 @@
+{
+  "name": "Snoopy",
+  "description": "A comic Snoopy hugging Woodstock, with little hops, tail wags, and a lively thinking loop.",
+  "slug": "snoopy",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "2fccfdac1f1f2c01d36397c4d584bf56db2d9e00cfec0e03aff9cca96c793d43",
+  "artwork_credit": "User-supplied Snoopy hugging Woodstock drawing. Original artist was not recorded.",
+  "artwork_source_url": null
+}

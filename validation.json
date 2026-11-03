@@ -1,0 +1,94 @@
+{
+  "validation_date": "2026-11-03",
+  "method": "Local PNG decoding, dimensions, alpha-channel checks, frame occupancy, file size, and SHA-256. No re-import was performed.",
+  "pets": [
+    {
+      "slug": "baby-yoda",
+      "sha256": "4554266dbc86035f3112b700f6c116dd629c3c16552aa26403b662544810ae19",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 1757087
+    },
+    {
+      "slug": "bb-8",
+      "sha256": "29f0a6d7c2c648719abdf8c842847855763d1a749b28219d6cce52a8c17d4710",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 1611016
+    },
+    {
+      "slug": "clefairy",
+      "sha256": "d61d0798826eefd2042534cbdd6828eb069055897ec09c19bf8a30bccbf2cc28",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 111607
+    },
+    {
+      "slug": "igglybuff",
+      "sha256": "d4baa64e7c3added44a6071a929c83a377178b69f30616dc866d4a4ae8e74d40",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 94699
+    },
+    {
+      "slug": "jigglypuff",
+      "sha256": "99973c1e6e30b2e042f9362b16123b8ba51cad798d36d1a6eb12494102286196",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 145028
+    },
+    {
+      "slug": "kirby",
+      "sha256": "b8f86d7f16a6b19423238bade7e45e6b462c93ab3037b283911e02ae030c4b06",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 2034104
+    },
+    {
+      "slug": "r2-d2",
+      "sha256": "b7661962cf8e9896a34983cbe03cb3afc3db861f280b111237279b74ba28fe99",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 2643507
+    },
+    {
+      "slug": "snoopy",
+      "sha256": "2fccfdac1f1f2c01d36397c4d584bf56db2d9e00cfec0e03aff9cca96c793d43",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 1769462
+    },
+    {
+      "slug": "togepi",
+      "sha256": "5a8f90a8cab236d1c2ab3180ebe79ff750bf6d57f100583b39e94740e288d865",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 106892
+    },
+    {
+      "slug": "togepi-artwork",
+      "sha256": "e14c1e0ec215fc976003465f39ca71a0b09c837db010f2a73b5a649aaa757666",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 2402136
+    },
+    {
+      "slug": "toy-story-alien",
+      "sha256": "a332581dd0cc61af36366342a2e577804ec16a41cb8eb958e4adc85a87380bfc",
+      "populated_frames": 57,
+      "unused_cells_transparent": true,
+      "transparent_background": true,
+      "bytes": 1433441
+    }
+  ]
+}

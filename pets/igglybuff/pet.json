@@ -1,0 +1,16 @@
+{
+  "name": "Igglybuff",
+  "description": "A tiny pink pixel-art companion with bouncy hops.",
+  "slug": "igglybuff",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "d4baa64e7c3added44a6071a929c83a377178b69f30616dc866d4a4ae8e74d40",
+  "artwork_credit": "CHUNSOFT sprites via PMDCollab.",
+  "artwork_source_url": "https://github.com/PMDCollab/SpriteCollab/tree/master/sprite/0174"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BB-8",
+  "description": "A tiny cartoon BB-8 with curious head tilts, playful rolls, and a busy little scan.",
+  "slug": "bb-8",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "29f0a6d7c2c648719abdf8c842847855763d1a749b28219d6cce52a8c17d4710",
+  "artwork_credit": "Source image from PNGItem; the host is not identified as the artist.",
+  "artwork_source_url": "https://www.pngitem.com/middle/hxhJmxo_bb8-clipart-cute-star-wars-bb8-cartoon-hd/"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Toy Story Alien",
+  "description": "A round, squishy three-eyed companion with gentle hops and ear wiggles.",
+  "slug": "toy-story-alien",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "a332581dd0cc61af36366342a2e577804ec16a41cb8eb958e4adc85a87380bfc",
+  "artwork_credit": "Official Jazwares product photograph, adapted into animated frames.",
+  "artwork_source_url": "https://shop.jazwares.com/products/squishmallows-disney-pixar-toy-story-plush"
+}

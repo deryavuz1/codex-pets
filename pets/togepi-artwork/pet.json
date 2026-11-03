@@ -1,0 +1,16 @@
+{
+  "name": "Togepi (Artwork)",
+  "description": "A soft, bouncy Togepi made from official Pokémon Pokédex artwork. Artwork: The Pokémon Company.",
+  "slug": "togepi-artwork",
+  "sprite_version": 1,
+  "spritesheet": "spritesheet.png",
+  "animation_layout": "../../animation-layout.json",
+  "width": 1536,
+  "height": 1872,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frame_count": 57,
+  "sha256": "e14c1e0ec215fc976003465f39ca71a0b09c837db010f2a73b5a649aaa757666",
+  "artwork_credit": "Official Pokemon Pokedex artwork; The Pokemon Company.",
+  "artwork_source_url": null
+}
